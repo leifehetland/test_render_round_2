@@ -1,6 +1,6 @@
 // import pretty from 'pretty';
 import { render } from '@testing-library/react';
-import SeenIt from '../Develop/src/pages/SeenIt';
+import SeenIt from '../pages/SeenIt';
 
 describe('SeenIt', () => {
   it('should display a placeholder message if no films are added', () => {
